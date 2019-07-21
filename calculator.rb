@@ -4,4 +4,4 @@ second_number = 4
 sum = 7
 difference = -1
 product = 12
-quotient = 0.75
+quotient = 0
